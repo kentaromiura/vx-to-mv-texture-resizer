@@ -1,0 +1,17 @@
+{
+  "name": "vx-to-mv-texture-resizer",
+  "version": "1.0.0",
+  "description": "RPGMaker VX to MV resizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+   "xbrz": "https://github.com/kentaromiura/node-xbrz",
+    "clint": "*",
+    "glob": "*",
+    "mkdirp": "*"
+  },
+  "author": "Cristian Carlesso <@kentaromiura>",
+  "license": "GPL-3.0"
+}
